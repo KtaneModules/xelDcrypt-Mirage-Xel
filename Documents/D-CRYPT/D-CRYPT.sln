@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D-CRYPT", "D-CRYPT.csproj", "{D39835E8-808C-D6D3-3974-8F9593C27ED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D-CRYPT.Editor", "D-CRYPT.Editor.csproj", "{021D6AB0-B114-CE00-A338-E1D9CFE02F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D39835E8-808C-D6D3-3974-8F9593C27ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39835E8-808C-D6D3-3974-8F9593C27ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39835E8-808C-D6D3-3974-8F9593C27ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39835E8-808C-D6D3-3974-8F9593C27ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{021D6AB0-B114-CE00-A338-E1D9CFE02F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{021D6AB0-B114-CE00-A338-E1D9CFE02F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{021D6AB0-B114-CE00-A338-E1D9CFE02F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{021D6AB0-B114-CE00-A338-E1D9CFE02F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
