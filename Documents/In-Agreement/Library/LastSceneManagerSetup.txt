@@ -1,4 +1,0 @@
-sceneSetups:
-- path: C:/Users/joeki/Documents/Module/Assets/Dimension NavigAT.unity
-  isLoaded: 1
-  isActive: 1

@@ -1,4 +1,0 @@
-sceneSetups:
-- path: C:/Users/joeki/Documents/D-CODE/Assets/D-CODE.unity
-  isLoaded: 1
-  isActive: 1
